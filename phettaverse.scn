@@ -53,5 +53,19 @@
       "physics": true,
       "start_url": "https://helloama.github.io/PhettaverseCity/Floor.glb"
     }
+,{
+	"position": [
+		0	,
+		0,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+	"start_url": "https://helloama.github.io/PhettaverseCity/streetstuff.glb"
+}
   ]
 }
