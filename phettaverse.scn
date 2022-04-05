@@ -67,5 +67,50 @@
 	],
 	"start_url": "https://helloama.github.io/PhettaverseCity/streetstuff.glb"
 }
+,{
+	"position": [
+		0,
+		2,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+           "physics": true,
+	"start_url": "https://helloama.github.io/PhettaverseCity/starclub.glb"
+}
+,{
+	"position": [
+		0,
+		2,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+           "physics": true,
+	"start_url": "https://helloama.github.io/PhettaverseCity/noodle.glb"
+}
+,{
+	"position": [
+		0,
+		2,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+           "physics": true,
+	"start_url": "https://helloama.github.io/PhettaverseCity/storehehe.glb"
+}
   ]
 }
