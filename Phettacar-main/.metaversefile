@@ -1,5 +1,5 @@
 {
-  "name": "Phetta Car",
+  "name": "PhettaCar",
   "start_url": "PhettaverseCar.glb",
   "components": [
     {
