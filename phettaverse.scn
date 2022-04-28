@@ -42,7 +42,7 @@
         0,
         0.7071067811865475
       ],
-      "start_url": "https://webaverse.github.io/app/public/avatars/scillia.vrm"
+      "start_url": "https://helloama.github.io/ClockRealm/PhettaPlushie.vrm"
     },
     {
       "position": [
@@ -65,7 +65,7 @@
 		0,
 		1
 	],
-	"start_url": "https://helloama.github.io/PhettaverseCity/streetstuff.glb"
+	"start_url": "https://helloama.github.io/PhettaverseCity/LightPoles.glb"
 }
 ,{
 	"position": [
@@ -80,7 +80,7 @@
 		1
 	],
            "physics": true,
-	"start_url": "https://helloama.github.io/PhettaverseCity/starclub.glb"
+	"start_url": "https://helloama.github.io/PhettaverseCity/trashcans.glb"
 }
 ,{
 	"position": [
@@ -95,7 +95,7 @@
 		1
 	],
            "physics": true,
-	"start_url": "https://helloama.github.io/PhettaverseCity/noodle.glb"
+	"start_url": "https://helloama.github.io/PhettaverseCity/fillerbuildings.glb"
 }
 ,{
 	"position": [
@@ -110,7 +110,7 @@
 		1
 	],
            "physics": true,
-	"start_url": "https://helloama.github.io/PhettaverseCity/storehehe.glb"
+	"start_url": "https://helloama.github.io/PhettaverseCity/fillerbuildings2.glb"
 }
   ]
 }
