@@ -71,7 +71,7 @@
 ,{
 	"position": [
 		0,
-		2,
+		0,
 		0
 	],
 	"quaternion": [
@@ -86,7 +86,7 @@
 ,{
 	"position": [
 		0,
-		2,
+		0,
 		0
 	],
 	"quaternion": [
@@ -101,7 +101,7 @@
 ,{
 	"position": [
 		0,
-		2,
+		0,
 		0
 	],
 	"quaternion": [
@@ -116,7 +116,7 @@
 ,{
 	"position": [
 		0,
-		2,
+		0,
 		0
 	],
 	"quaternion": [
@@ -155,7 +155,7 @@
 		0,
 		1
 	],
-           "physics": true,
+    "physics": true,
 	"start_url": "https://helloama.github.io/PhettaverseCity/FLOORWITHPHYICSPLZ.glb"
 }
 ,{
