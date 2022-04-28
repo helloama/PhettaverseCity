@@ -65,7 +65,8 @@
 		0,
 		1
 	],
-	"start_url": "https://helloama.github.io/PhettaverseCity/LightPoles.glb"
+    "physics": true,
+	"start_url": "https://helloama.github.io/PhettaverseCity/Phettacar.glb"
 }
 ,{
 	"position": [
@@ -140,7 +141,82 @@
 		1
 	],
            "physics": true,
-	"start_url": "https://helloama.github.io/PhettaverseCity/7Rabbits.glb"
+	"start_url": "https://helloama.github.io/PhettaverseCity/MushroomApts.glb"
+}
+,{
+	"position": [
+		0,
+		0,
+		1
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+           "physics": true,
+	"start_url": "https://helloama.github.io/PhettaverseCity/FLOORWITHPHYICSPLZ.glb"
+}
+,{
+	"position": [
+		0,
+		0,
+		1
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+           "physics": true,
+	"start_url": "https://helloama.github.io/PhettaverseCity/starclub.glb"
+}
+,{
+	"position": [
+		0,
+		0,
+		1
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+           "physics": true,
+	"start_url": "https://helloama.github.io/PhettaverseCity/Noodleshop.glb"
+}
+,{
+	"position": [
+		0,
+		0,
+		1
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+           "physics": true,
+	"start_url": "https://helloama.github.io/PhettaverseCity/JazzRoom.glb"
+}
+,{
+	"position": [
+		0,
+		0,
+		1
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+           "physics": true,
+	"start_url": "https://helloama.github.io/PhettaverseCity/ChillRoom.glb"
 }
   ]
 }
