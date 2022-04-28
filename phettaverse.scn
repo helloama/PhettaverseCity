@@ -112,5 +112,35 @@
            "physics": true,
 	"start_url": "https://helloama.github.io/PhettaverseCity/fillerbuildings2.glb"
 }
+,{
+	"position": [
+		0,
+		2,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+           "physics": true,
+	"start_url": "https://helloama.github.io/PhettaverseCity/7Rabbits.glb"
+}
+,{
+	"position": [
+		0,
+		2,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+           "physics": true,
+	"start_url": "https://helloama.github.io/PhettaverseCity/7Rabbits.glb"
+}
   ]
 }
