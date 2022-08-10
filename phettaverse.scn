@@ -247,5 +247,19 @@
 	
 	"start_url": "https://helloama.github.io/PhettaverseCity/portalruins.glb"
 }
+,{
+	"position": [
+		0,
+		1,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+	"start_url": "https://github.com/helloama/hovercraft"
+}
   ]
 }
