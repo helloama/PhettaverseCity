@@ -1,0 +1,36 @@
+{
+  "name": "phettabike",
+  "start_url": "bike.glb",
+  "components": [
+    {
+      "key": "sit",
+      "value": {
+        "subtype": "saddle",
+        "sitOffset": [0, -0.5, 0],
+        "walkAnimation": ["Animation", "Animation"],
+        "walkAnimationHoldTime": 1,
+        "walkAnimationSpeedFactor": 0.1,
+        "speed": 0.8,
+        "damping": 0.99,
+        "scale": 3
+      }
+    },
+    {
+      "key": "effect2",
+      "value": {
+        "effects": [
+          {
+            "type": "fire",
+            "position": [-0.8, 0.5, 0.1],
+            "quaternion": [-0.4999999999999999, -0.4999999999999999, -0.4999999999999999, 0.4999999999999999]
+          },
+          {
+            "type": "fire",
+            "position": [0.8, 0.5, 0.1],
+            "quaternion": [-0.4999999999999999, -0.4999999999999999, -0.4999999999999999, 0.4999999999999999]
+          }
+        ]
+      }
+    }
+  ]
+}
